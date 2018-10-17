@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InfoMotor</string>
+
+    <string-array name="nama_motor_naked_yamaha">
+        <item>MT-10</item>
+        <item>MT-09</item>
+        <item>Vixion</item>
+        <item>Xaber</item>
+    </string-array>
+
+    <string-array name="detail_motor_naked_yamaha">
+        <item>MT-10 Harga Yamaha MT-10 Rp 310.000.000</item>
+        <item>MT-09 Harga Yamaha MT-09 Rp 295.000.000</item>
+        <item>Vixion Harga Yamaha Vixion Rp 30.500.000</item>
+        <item>Xaber Harga Yamaha Xaber Rp 31.000.000</item>
+    </string-array>
+
+    <string-array name="nama_motor_sport_yamaha">
+        <item>R1M</item>
+        <item>R1</item>
+        <item>R6</item>
+        <item>R25</item>
+        <item>R15</item>
+    </string-array>
+
+    <string-array name="detail_motor_sport_yamaha">
+        <item>R1M Harga Yamaha YZF-R1M	Rp 645.000.000</item>
+        <item>R1 Harga Yamaha YZF-R1 Rp 495.000.000</item>
+        <item>R6 Harga Yamaha YZF-R6 RP 270.000.000</item>
+        <item>R25 Harga Yamaha YZF-R25  Rp 62.000.000</item>
+        <item>R15 Harga Yamaha YZF-R15  Rp 31.000.000</item>
+    </string-array>
+
+
+</resources>
